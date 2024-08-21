@@ -1,0 +1,72 @@
+*{
+    background-color:rgb(0, 255, 21);
+}
+h1{
+    color: rgb(184, 11, 11);
+}
+p{
+    color: purple;
+}
+button{
+    color: darkorange;
+    background-color: black;
+}
+#headingone {
+color: aqua;
+background-color: black;
+}
+#headingtwo{
+    background-color: aquamarine;
+    color: indigo;
+}
+#heading3{
+color: saddlebrown;
+background-color: khaki;
+}
+#prince{
+    color: olivedrab;
+    background-color: wheat;
+}
+#apple{
+    background-color: burlywood;
+    color: black;
+}
+#hen{
+    color: black;
+    background-color: blanchedalmond;
+}
+#cow{
+    background-color: greenyellow;
+    color: black;
+}
+#poot{
+color: black;
+text-align: center;
+}
+#book{
+    text-decoration: underline;
+    text-decoration: overline;
+   
+    background-color: aqua;
+   /* display: inline; */
+   
+   text-align: center;
+ 
+    color: black;
+}
+#pro{
+    color: deeppink;
+    background-color: aqua
+}
+i{
+   color: coral;
+}
+#pfour{
+    text-align: center;
+    text-decoration: wavy;
+    font-size: 55px;
+    color: greenyellow;
+}
+#pone{
+    color: aqua;
+}

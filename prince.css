@@ -1,0 +1,37 @@
+*{
+    background-color: aquamarine;
+}
+#one{
+    color: black;
+   background-color: chartreuse;
+   text-align: center;
+   font-style: italic;
+   
+}
+  button{
+    color: dodgerblue;
+  }
+  footer{
+    color: hotpink;
+    font-style: italic;
+  }
+  #two{
+    color: rgb(64, 0, 255);
+    font-size: x-large;
+    font-style: italic;
+    background-repeat: no-repeat;
+  }
+  h2{
+    background-color: aquamarine;
+    color: black;
+  }
+  center{
+    background-color: rgb(4, 17, 13);
+  }
+  #one
+  {
+    background-color: rgb(25, 214, 189);
+    color: rgb(216, 110, 40);
+    font-style: italic;
+    font-size: larger;
+  }
